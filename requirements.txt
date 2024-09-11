@@ -1,0 +1,8 @@
+# Numeric stack for the matrix arithmetic
+numpy>=1.26
+
+# Notebooks only (omitted from a library install)
+matplotlib>=3.8
+
+# Development
+pytest>=8.0
